@@ -1,0 +1,17 @@
+.card {
+    width:200px;
+    height: 300px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: gray 4px 4px 8px;
+    border: solid #00000042 1px;
+}
+
+.card-image {
+    width: 90%;
+    height: 90%;
+    border: solid #000 2px;
+    background: #777;
+}
+
+}
